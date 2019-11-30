@@ -1,0 +1,23 @@
+{
+    "name": "minimal",
+    "displayName": "Minimal",
+    "description": "Minimal vscode color scheme",
+    "version": "1.0.0",
+    "publisher": "calebdoxsey",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Minimal Light",
+                "uiTheme": "vs",
+                "path": "./themes/light.json"
+            }
+        ]
+    }
+}
