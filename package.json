@@ -19,5 +19,9 @@
         "path": "./themes/light.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calebdoxsey/minimal-color-scheme-vscode"
   }
 }
